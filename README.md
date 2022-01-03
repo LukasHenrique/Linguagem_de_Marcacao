@@ -1,2 +1,2 @@
 # Data Mining
-Projeto da cadeira de Linguagem de Marcação - IFPB
+Repositório para armazenamento do projeto desenvolvido para a cadeira de Linguagem de Marcação- IFPB
